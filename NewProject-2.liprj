@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\admin\Documents\My Translated Projects\NewProject-2.liprjf" SourceControlDatabase="C:\Users\admin\Documents\My Translated Projects\NewProject-2.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="effd4065-b224-4066-9a27-4f24f970ee06">
     <ProjectFile Source="Target/ConditionsTest.flprj" Target="Target/ConditionsTest.flprj" />
+    <MTConnection Provider="MYMEMORY" />
 </LingoProject>
